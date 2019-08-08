@@ -1,0 +1,18 @@
+{
+	"_settings": {
+		"defaultAlbedo": "./../../../../../../textures/materials/blocks/albedo/default.png",
+		"defaultEmissive": "./../../../../../../textures/materials/blocks/emissiveMaskAlpha/neutral.png",
+		"defaultHeight": "./../../../../../../textures/materials/blocks/heightSmoothnessSpecularity/default.png",
+		"defaultNormal": "./../../../../../../textures/materials/blocks/normal/default.png",
+		"fileExtension": ".png",
+		"folderAlbedo": "./../../../../../../textures/materials/water/",
+		"folderEmissive": "./../../../../../../textures/materials/water/",
+		"folderHeight": "./../../../../../../textures/materials/water/",
+		"folderNormal": "./../../../../../../textures/materials/water/"
+	},
+	"NACH0.Textures.Water": {
+		"albedo": "albedo",
+		"normal": "normal",
+		"height": "HeightSmoothnessSpecularity"
+	}
+}
